@@ -15,7 +15,7 @@ a{
 }
 /* PROFILE INFO */
 .left-sidebar{
-    background-color: #001be6; 
+    background-color: #fff8e1; 
     padding-right: 10%;
     padding-left: 10%;
     padding-top: 50px;
@@ -66,7 +66,7 @@ a{
     margin-top: 15px;
     padding: 15px;
     text-align: center;
-    background-color: #B4FFFF;
+    background-color: #4570ff;
     text-transform: uppercase;
     font-family: 'Quicksand', sans-serif;
 }
