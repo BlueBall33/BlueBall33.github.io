@@ -8,14 +8,14 @@ body {
 }
 a{
     text-decoration: none;
-    color: #001be6; //#000000
+    color: #000000;
 }
 #container{
     height: 100%;
 }
 /* PROFILE INFO */
 .left-sidebar{
-    background-color: #fff8e1;
+    background-color: #001be6; //#fff8e1;
     padding-right: 10%;
     padding-left: 10%;
     padding-top: 50px;
